@@ -30,3 +30,14 @@
     transform: rotate(360deg);
   }
 }
+
+.App{
+  display: flex;
+    justify-content: center;
+}
+.radio, .autre, .boutons {
+  display: flex;
+}
+#formulaire {
+  width: 230px;
+}

@@ -7,6 +7,10 @@
     "react-dom": "^16.6.3",
     "react-scripts": "2.1.1"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ChRachou/devoir_react_formulaire.git"
+  },
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
